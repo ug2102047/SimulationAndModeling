@@ -88,4 +88,4 @@ axes[1, 1].grid(True, alpha=0.3, axis='y')
 axes[1, 1].legend()
 
 plt.tight_layout()
-plt.show()
+plt.show() 
