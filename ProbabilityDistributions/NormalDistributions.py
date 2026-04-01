@@ -11,7 +11,7 @@ x = np.linspace(0, 200, 500)
 y = norm.pdf(x, mu, sigma)
 
 plt.figure()
-plt.plot(x, y)
+plt.plot(x, y) 
 plt.title("Unimodal Normal Distribution (Mean=100, SD=20)")
 plt.xlabel("X")
 plt.ylabel("Density")
