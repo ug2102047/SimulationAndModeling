@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Parameters
-p = 0.6
+p = 0.6 
 n_samples = 1000
 
 bernoulli_samples = np.random.binomial(1, p, n_samples)
