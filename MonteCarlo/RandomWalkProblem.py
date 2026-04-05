@@ -3,7 +3,7 @@ import random
 import matplotlib.pyplot as plt
 import numpy as np
 from matplotlib.patches import Circle, FancyArrowPatch
-from matplotlib.collections import LineCollection
+from matplotlib.collections import LineCollection 
  
 # Random Walk Simulation Parameters
 num_simulations = 5  # Number of random walks to simulate
