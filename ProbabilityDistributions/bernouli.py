@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
- 
+  
 # Parameters 
 p = 0.6 
 n_samples = 1000
