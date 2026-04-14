@@ -1,4 +1,4 @@
- import random
+import random
 import matplotlib.pyplot as plt
 
 def fun(x):
