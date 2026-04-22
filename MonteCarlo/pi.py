@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 def fun(x):
     return math.sqrt(1-x*x)
-
+ 
 class PiEstimation:
     def __init__(self, range_x_in, range_x_out, range_y_in, range_y_out, iteration=50):
         self.inside = 0
