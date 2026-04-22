@@ -1,7 +1,7 @@
 import random
 import matplotlib.pyplot as plt
 
-hit_count = 0
+hit_count = 0 
 miss_count = 0
 
 for _ in range(1000000):
