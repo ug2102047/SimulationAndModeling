@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from scipy.stats import norm
  
-# Part 1: Unimodal Normal Curve 
+# Part 1: Unimodal Normal Curve  
 
 mu = 100
 sigma = 20   #standard deviation
