@@ -17,7 +17,7 @@ p = 5       # backlog cost
 
 inventory = 60          # I(0)
 outstanding_order = 0
-order_arrival_time = None
+order_arrival_time = None 
 
 time = 0
 last_event_time = 0
