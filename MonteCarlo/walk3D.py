@@ -1,5 +1,5 @@
 import random
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt 
 
 class RandomWalk3D:
     def __init__(self, step_limit=100):
