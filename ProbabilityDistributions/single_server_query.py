@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-
+ 
 
 MEAN_INTERARRIVAL = 1.0   # minutes  গ্রাহক গড়ে প্রতি 1 মিনিটে আসে
 MEAN_SERVICE = 0.5        # minutes  গড়ে 0.5 মিনিটে service শেষ হয়
