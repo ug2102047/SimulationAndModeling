@@ -6,7 +6,7 @@ MEAN_INTERARRIVAL = 1.0   # minutes  গ্রাহক গড়ে প্র�
 MEAN_SERVICE = 0.5        # minutes  গড়ে 0.5 মিনিটে service শেষ হয়
 N_CUSTOMERS = 1000
  
-
+ 
 clock = 0.0
 server_busy = False
 queue = []
