@@ -1,5 +1,5 @@
 import numpy as np
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt 
    
 # Parameters  
 p = 0.6   
