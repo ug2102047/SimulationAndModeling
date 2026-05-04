@@ -9,7 +9,7 @@ game_costs = []
 game_profits = []
 cumulative_profit = []
 
-for game in range(100):
+for game in range(100): 
     x = 0
     h = 0
     t = 0
